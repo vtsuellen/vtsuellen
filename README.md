@@ -10,9 +10,8 @@ const status = {
   learning: ['Desenvolvimento Web', 'HTMl', 'CSS', 'Javascript', 'Git', 'Shell, 'Unix'],
 }
 
-const softSkilss = {
-  ['Autoliderança', 'Escuta ativa', 'Assertividade', 'Comunicação']
-}
+const softSkilss = ['Autoliderança', 'Escuta ativa', 'Assertividade', 'Comunicação']
+
 
 ```
 
