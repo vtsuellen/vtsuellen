@@ -4,7 +4,7 @@
 ```
 const name = 'Suellen Vitoria Torres Da Silva';
 const nickName = 'vitsuh';
-let age = 18;
+let age = 19;
 
 const status = {
   learning: ['Desenvolvimento Web', 'HTMl', 'CSS', 'Javascript', 'Git', 'Shell, 'Unix'],
