@@ -7,10 +7,13 @@ const nickName = 'vitsuh';
 let age = 19;
 
 const status = {
-  learning: ['Desenvolvimento Web', 'HTMl', 'CSS', 'Javascript', 'Git', 'react', 'typeScript', 'vite'],
+  learning: ['Desenvolvimento Web', 'HTMl', 'CSS', 'Javascript', 'Git',
+  'react', 'typeScript', 'vite'],
 }
 
-const softSkilss = ['Autoliderança', 'Escuta ativa', 'Assertividade', 'Comunicação', 'Trabalho em equipe', 'criatividade', 'inteligenciaEmocional', 'colaboração']
+const softSkilss = ['Autoliderança', 'Escuta ativa', 'Assertividade',
+'Comunicação', 'Trabalho em equipe', 'criatividade','inteligenciaEmocional',
+'colaboração']
 
 
 ```
