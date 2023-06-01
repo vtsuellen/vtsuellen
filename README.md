@@ -12,8 +12,7 @@ const status = {
 }
 
 const softSkilss = ['Autoliderança', 'Escuta ativa', 'Assertividade',
-'Comunicação', 'Trabalho em equipe', 'criatividade','inteligenciaEmocional',
-'colaboração']
+'Comunicação', 'Trabalho em equipe', 'criatividade','inteligenciaEmocional','colaboração']
 
 
 ```
