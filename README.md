@@ -12,7 +12,6 @@
 ---
 
 <div align="center">
-  
   <img align="center" alt="html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +22,9 @@
   <img align="center" alt="jest" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="trello" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="rtl-react-testing-library" height="40" width="45" src="https://testing-library.com/img/octopus-128x128.png" />
-
+  <img align="center" alt="git" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="linux" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="linux" height="45" width="45" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
 </div>
 
 ---
